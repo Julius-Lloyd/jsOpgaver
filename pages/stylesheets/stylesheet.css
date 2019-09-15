@@ -1,0 +1,21 @@
+
+body{
+    background-color: #4f81c7;
+}
+.container{ 
+    margin-top: 200px; 
+
+    }
+.card-header{
+    background-color: #f0d78c;
+}
+#btn{
+    margin-bottom: 10px;
+}
+.card{
+   background: #fcfafa; 
+}
+.s_beregn{
+    margin-bottom: 20px;
+}
+
